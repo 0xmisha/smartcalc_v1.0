@@ -1,0 +1,8 @@
+/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/CMakeFiles/SmartCalc.dir
+/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/CMakeFiles/Notation.dir
+/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/CMakeFiles/SmartCalc_autogen_timestamp_deps.dir
+/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/CMakeFiles/SmartCalc_autogen.dir
+/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/CMakeFiles/Notation_autogen_timestamp_deps.dir
+/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/CMakeFiles/Notation_autogen.dir

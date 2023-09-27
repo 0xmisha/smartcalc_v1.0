@@ -1,0 +1,22 @@
+# ninja log v5
+1	46	1695844827809432388	Notation_autogen/timestamp	a8f22e049357b2b0
+1	46	1695844827809432388	Notation_autogen/mocs_compilation.cpp	a8f22e049357b2b0
+1	46	1695844827809432388	/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/Notation_autogen/timestamp	a8f22e049357b2b0
+1	46	1695844827809432388	/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/Notation_autogen/mocs_compilation.cpp	a8f22e049357b2b0
+46	64	1695844827831562739	CMakeFiles/Notation.dir/Notation_autogen/mocs_compilation.cpp.o	baf77b8146690e03
+46	113	1695844827879728598	CMakeFiles/Notation.dir/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/source/smartcalc.c.o	de4d57c9c5ae3eb1
+47	114	1695844827880125889	CMakeFiles/Notation.dir/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/deposit/deposit.c.o	c73ac3459d0ae332
+47	114	1695844827881242594	CMakeFiles/Notation.dir/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/credit/credit.c.o	542545c077a623ef
+47	114	1695844827881118594	CMakeFiles/Notation.dir/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/source/utils.c.o	8ca9501ee1be6835
+47	115	1695844827882112175	CMakeFiles/Notation.dir/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/source/stack.c.o	7a919bf5f563867
+46	117	1695844827884756000	CMakeFiles/Notation.dir/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/source/rpn.c.o	b2aa25daba87759f
+117	479	1695844828246641000	libNotation.a	6e9b1d53ed3d4846
+479	1030	1695844828789889476	SmartCalc_autogen/timestamp	ed59b70c8685f9af
+479	1030	1695844828789889476	SmartCalc_autogen/mocs_compilation.cpp	ed59b70c8685f9af
+479	1030	1695844828789889476	/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/SmartCalc_autogen/timestamp	ed59b70c8685f9af
+479	1030	1695844828789889476	/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/SmartCalc_autogen/mocs_compilation.cpp	ed59b70c8685f9af
+1030	1492	1695844829255692487	CMakeFiles/SmartCalc.dir/main.cpp.o	ab5df4373e1648dd
+1030	2633	1695844830393127657	CMakeFiles/SmartCalc.dir/mainwindow.cpp.o	e5036ef4e32d137
+1030	3464	1695844831223004269	CMakeFiles/SmartCalc.dir/SmartCalc_autogen/mocs_compilation.cpp.o	acadd086e7eea67f
+1030	4985	1695844832741944864	CMakeFiles/SmartCalc.dir/qcustomplot.cpp.o	d65b8453cf7e84e9
+4986	5150	1695844832914499443	SmartCalc.app/Contents/MacOS/SmartCalc	6d63ee2b597ec89e

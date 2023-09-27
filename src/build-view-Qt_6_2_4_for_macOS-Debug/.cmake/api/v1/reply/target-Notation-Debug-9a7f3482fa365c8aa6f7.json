@@ -1,0 +1,260 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "libNotation.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 67,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk"
+				},
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug"
+				},
+				{
+					"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/view"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/Notation_autogen/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug"
+				},
+				{
+					"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/view"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/Notation_autogen/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				5,
+				6,
+				7,
+				8,
+				9,
+				11
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "Notation_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "Notation_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "Notation::@6890427a1f51a3e7e1df",
+	"name" : "Notation",
+	"nameOnDisk" : "libNotation.a",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				6,
+				7,
+				8,
+				9,
+				11
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				10,
+				12,
+				13
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				14
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				15
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/Notation_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/include/rpn.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/include/smartcalc.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/include/stack.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/include/utils.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/source/rpn.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/source/smartcalc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/source/stack.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/arithmetic/source/utils.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/credit/credit.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/credit/credit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/deposit/deposit.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/model/deposit/deposit.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/Notation_autogen/include/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/Notation_autogen/timestamp",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug/Notation_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

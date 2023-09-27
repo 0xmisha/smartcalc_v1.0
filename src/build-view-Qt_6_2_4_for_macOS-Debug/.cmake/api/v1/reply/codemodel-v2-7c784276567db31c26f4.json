@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SmartCalc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Notation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notation-Debug-9a7f3482fa365c8aa6f7.json",
+					"name" : "Notation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Notation_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notation_autogen-Debug-671a6b3ef67dc0ecf105.json",
+					"name" : "Notation_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Notation_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Notation_autogen_timestamp_deps-Debug-b1082d9d5e8a68b8ebf4.json",
+					"name" : "Notation_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartCalc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartCalc-Debug-c503e36da2f5192f214b.json",
+					"name" : "SmartCalc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartCalc_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartCalc_autogen-Debug-e8b1cd772074e0b3a070.json",
+					"name" : "SmartCalc_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SmartCalc_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SmartCalc_autogen_timestamp_deps-Debug-19966d1ada3f693e1bcb.json",
+					"name" : "SmartCalc_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/build-view-Qt_6_2_4_for_macOS-Debug",
+		"source" : "/Users/misha/Documents/gitlab/C7_SmartCalc_v1.0-1/src/view"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
